@@ -1,0 +1,6 @@
+SpeechRecognition
+pyaudio
+soundfile
+scipy
+numpy
+matplotlib
