@@ -1,6 +1,8 @@
 SpeechRecognition
 pyaudio
-soundfile
-scipy
 numpy
 matplotlib
+soundfile
+scipy
+scikit-image
+PyWavelets
